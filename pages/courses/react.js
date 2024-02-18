@@ -1,7 +1,5 @@
-import React from 'react';
-
-function react() {
+function React() {
   return <div>react</div>;
 }
 
-export default react;
+export default React;
